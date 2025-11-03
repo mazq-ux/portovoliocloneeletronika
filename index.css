@@ -1,0 +1,24 @@
+.logo {
+  width: 60px;
+  height: 40px;
+  object-fit: cover;
+  margin-left: 20px;
+}
+
+.navbar-brand {
+  margin-right: 30px;
+}
+
+.btn {
+  margin-left: 10px;
+  border: 50px;
+}
+
+.navbar-brand {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-size: 22px;
+}
+.navbar-brand span {
+  color: #00b27a;
+}
